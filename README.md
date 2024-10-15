@@ -1,2 +1,2 @@
-# Suicide-prediction-from-text
- text analysis to predict suicide 
+# Suicide Intention Prediction from Text Analysis Using Machine Learning and NLP
+The project titled "Suicide Intention Prediction from Text Analysis Using Machine Learning and NLP" focuses on predicting suicidal intent through the analysis of text data. It leverages text analysis, word embedding, and encoding techniques to classify and detect signals of suicidal intent. Dimension reduction using Global Average Pooling is applied to enhance the model’s performance, while supervised algorithms are employed for classification tasks. The project is developed using tools like Python, Jupyter Notebook, NLTK, TensorFlow, Pandas, and Scikit-learn, with Matplotlib used for visualising the results and insights.
